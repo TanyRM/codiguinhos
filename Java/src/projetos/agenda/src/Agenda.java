@@ -1,5 +1,4 @@
-package agenda.src;
-import agenda.src.Contato;
+package projetos.agenda.src;
 
 public class Agenda {
   Contato contato1;

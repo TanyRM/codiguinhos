@@ -1,6 +1,7 @@
+package outros;
 import java.util.Scanner;
 
-public class Main{
+public class QuantTinta {
   public static void main(String[] args){
     int litros, metros;
     double galoes, latas, gl; //galoes=3,6l e latas=18l

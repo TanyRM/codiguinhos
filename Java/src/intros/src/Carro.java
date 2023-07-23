@@ -1,5 +1,7 @@
+package intros.src;
+
 //exemplo de instanciação de classes e criação de objetos com uso de métodos
-public class Carro{
+public class Carro {
     //atributos
     String placa;
     double capCombs;
@@ -27,7 +29,6 @@ public class Carro{
         //criação de objetos ou instanciação da classe
         Carro van = new Carro();
         van.placa ="abc-123";
-        van.cap_combs = 40.5;
         van.gastoCombs = 1.5;
         
         Carro fusca = new Carro();

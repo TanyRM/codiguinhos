@@ -1,6 +1,7 @@
+package outros;
 import java.util.Scanner;
 
-public class Main{
+public class Fatorial {
     public static int fat(int n){
         if (n==0)
             return 1;

@@ -1,4 +1,4 @@
-package agenda.src;
+package projetos.agenda.src;
 
 public class Contato {
   public String nome;

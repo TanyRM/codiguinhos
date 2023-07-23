@@ -1,8 +1,6 @@
+package projetos.curso.src;
+
 import java.util.Scanner;
-import curso.src.Curso;
-import curso.src.Aluno;
-import curso.src.Professor;
-import curso.src.Horario;
 
 class Main {
   public static void main(String[] args) {

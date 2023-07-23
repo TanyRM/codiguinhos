@@ -1,7 +1,4 @@
-package curso.src;
-import curso.src.Aluno;
-import curso.src.Professor;
-import curso.src.Horario;
+package projetos.curso.src;
 
 public class Curso {
   private String nome;

@@ -1,4 +1,4 @@
-package curso.src;
+package projetos.curso.src;
 
 public class Aluno {
   private String nomea;

@@ -1,5 +1,6 @@
+package projetos.agenda.src;
+
 import java.util.Scanner;
-import agenda.src.Contato;
 
 //agenda
 class Main {

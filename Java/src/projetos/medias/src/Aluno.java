@@ -1,4 +1,4 @@
-package com.notas;
+package projetos.medias.src;
 
 public class Aluno {
   String nome;

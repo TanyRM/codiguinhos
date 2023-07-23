@@ -1,3 +1,5 @@
+package intros.src;
+
 import java.util.Scanner;
 
 class Main{

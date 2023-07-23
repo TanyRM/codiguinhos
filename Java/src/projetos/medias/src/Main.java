@@ -1,5 +1,6 @@
+package projetos.medias.src;
+
 import java.util.Scanner;
-import com.notas.Aluno;
 
 public class Main{
   public static void main(String[] args) {
