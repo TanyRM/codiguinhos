@@ -1,4 +1,4 @@
-package outros;
+package outros.src;
 import java.util.Scanner;
 
 public class Fatorial {

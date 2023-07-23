@@ -1,6 +1,6 @@
 package intros.src;
 
-class Carro{
+class Carro {
 
      String cor;
      double preco;
