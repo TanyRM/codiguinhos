@@ -1,2 +1,2 @@
 # codiguinhos
-Repositório pra guardar meus códigos que nao são pra faculdade.
+Repositório pra guardar meus códigos que não diretamente ligados a faculdade.
