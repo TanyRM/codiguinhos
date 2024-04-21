@@ -4,12 +4,14 @@ package introducao.Functions
 /*fun uppercaseString(string: String): String{
     return string.uppercase()
 }*/
+
 fun toSegundos(tempo: String): (Int) -> Int = when (tempo){
     "horas" -> { valor -> valor*60*60}
     "minutos" -> {valor -> valor*60}
     "segundos" -> {valor -> valor}
     else -> {valor -> valor}
 }
+
 fun main(){
     // println(uppercaseString("hello"))
     // Passando para Lambda
