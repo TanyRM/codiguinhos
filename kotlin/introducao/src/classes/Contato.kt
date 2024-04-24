@@ -1,4 +1,4 @@
-package introducao.classes
+package introducao.src.classes
 
 /* As propriedades podem ser declaradas depois do nome entre parenteses
    ou no corpo da classe.

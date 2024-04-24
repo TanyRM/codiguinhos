@@ -1,4 +1,4 @@
-package introducao
+package introducao.src.basico
 
 val topLevel = 0 // Variavel declarada em nivel superior
 const val valor = 10 // Declarar constante

@@ -1,4 +1,4 @@
-package introducao.classes
+package introducao.src.classes
 
 fun main(){
     // Os parametros na header são usados no construtor default da classe

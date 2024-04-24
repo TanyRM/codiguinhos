@@ -1,4 +1,4 @@
-package introducao.collections
+package introducao.src.collections
 
 // Sets: Coleções exclusivas de itens não ordenados
 

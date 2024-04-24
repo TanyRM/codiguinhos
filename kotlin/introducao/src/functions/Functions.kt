@@ -1,4 +1,4 @@
-package introducao.Functions
+package introducao.src.functions
 
 // São declaradas usando a palavra chave fun
 fun hello() { // Função sem retorno (tipo de retorno Unit, pode ser omitido

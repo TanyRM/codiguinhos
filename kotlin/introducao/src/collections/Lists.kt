@@ -1,4 +1,4 @@
-package introducao.collections
+package introducao.src.collections
 
 // Lists: Coleções ordenadas de itens
 

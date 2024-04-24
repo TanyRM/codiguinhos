@@ -1,4 +1,4 @@
-package introducao.classes
+package introducao.src.classes
 
 /*
     Classes usadas principalmente para armazenar dados:

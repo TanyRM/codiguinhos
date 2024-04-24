@@ -1,4 +1,4 @@
-package introducao.Functions
+package introducao.src.functions
 
 // Kotlin permite o uso de expressões Lambda
 /*fun uppercaseString(string: String): String{

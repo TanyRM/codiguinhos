@@ -1,4 +1,4 @@
-package introducao
+package introducao.src.basico
 
 // if e when
 // é recomendado usar when para programas mais robustos e seguros

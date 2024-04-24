@@ -1,4 +1,4 @@
-package introducao
+package introducao.src.basico
 
 fun main() {
     var valor = 10 // Inferencia de tipo para permitir operações

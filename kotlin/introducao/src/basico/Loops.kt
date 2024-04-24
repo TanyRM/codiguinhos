@@ -1,4 +1,4 @@
-package introducao
+package introducao.src.basico
 
 /* Intervalos para incremento são implementados usando o operador ..
    1..5 equivale a 1, 2, 3, 4, 5
